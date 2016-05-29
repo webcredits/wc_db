@@ -1,0 +1,25 @@
+{
+  "name": "wc_db",
+  "version": "0.0.1",
+  "description": "db connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webcredits/wc_db.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "Melvin Carvalho <melvincarvalho@gmail.com> (https://melvincarvalho.com/#me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webcredits/wc_db/issues"
+  },
+  "homepage": "https://github.com/webcredits/wc_db#readme",
+  "dependencies": {
+    "sequelize": "^3.23.3"
+  }
+}
