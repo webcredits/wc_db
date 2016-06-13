@@ -1,6 +1,6 @@
 {
   "name": "wc_db",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "db connection",
   "main": "index.js",
   "scripts": {
